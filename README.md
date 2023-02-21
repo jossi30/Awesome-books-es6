@@ -43,7 +43,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://chepkok3.github.io/Awesome-Book-App/)
+- [Live Demo Link](https://jossi30.github.io/Awesome-books-es6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
