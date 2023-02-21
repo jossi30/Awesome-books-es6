@@ -20,7 +20,7 @@ export default class Books {
     });
   };
 
-  createBookList() {
+  createBookList = () => {
     this.books.forEach((book, index) => {
       const li = document.createElement('li');
       li.className = 'book-item';
@@ -41,7 +41,7 @@ export default class Books {
     newAuthor.value = '';
   };
 
-  add() {
+  add = () => {
     const newBook = new Book(newTitle.value, newAuthor.value);
     this.books.push(newBook);
 
@@ -64,7 +64,7 @@ export default class Books {
     this.initInput();
   }
 
-  remove(target) {
+  remove = (target) => {
     if (target.className === 'remove-btn') {
       this.books.splice(target.id, 1);
       target.parentElement.remove();
