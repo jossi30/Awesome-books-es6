@@ -99,9 +99,6 @@ You can deploy this project using:
 - Twitter: [@jossi30](https://twitter.com/jossi30_)
 - LinkedIn: [Yosief G. Hailay](https://www.linkedin.com/in/yosief-g-hailay-290277213/)
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
